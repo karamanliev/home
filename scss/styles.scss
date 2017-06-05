@@ -197,6 +197,9 @@ footer {
         &:hover {
             color: $base-color;
         }
+        &:focus {
+            color: $text;
+        }
     }
 }
 
